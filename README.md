@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🚛 Haulbase
 
-<!--
-**Haulbase2026/Haulbase2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**The modern, all-in-one software platform built specifically for UK HGV and driver recruitment agencies.**
 
-Here are some ideas to get you started:
+Haulbase cuts out the chaotic paperwork, endless spreadsheets, and manual tracking that slow down busy transport recruitment desks. We help agencies centralize their entire operation, allowing teams to effortlessly manage compliance, scheduling, and driver availability in a single, intuitive interface.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Key Capabilities
+
+*   **Rigorous Driver Compliance:** Easily track DVLA licenses, CPC expiries, digital tacho cards, and right-to-work documentation in one place.
+*   **Fast, Dynamic Scheduling:** Match qualified, fully compliant HGV drivers to open client shifts in seconds.
+*   **Streamlined Placements:** Maintain a clear, real-time pulse on your active driver base and incoming client requirements.
+
+## 🏗️ Built for Fast-Paced Logistics
+
+Operating in the transport sector requires speed and absolute accuracy. Haulbase ensures your agency:
+*   Stays **100% audit-ready** at all times.
+*   Minimizes administrative manual errors.
+*   Scales weekly placements without adding administrative overhead.
+
+## 🌐 Connect with Us
+
+Ready to simplify your desk and supercharge your recruitment operations?
+
+*   **Website:** [haulbase.co.uk](https://haulbase.co.uk)
+*   **Follow Us:** Stay tuned here on GitHub for updates, integrations, and documentation.
