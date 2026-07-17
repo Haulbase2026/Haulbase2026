@@ -22,4 +22,3 @@ Operating in the transport sector requires speed and absolute accuracy. Haulbase
 Ready to simplify your desk and supercharge your recruitment operations?
 
 *   **Website:** [haulbase.co.uk](https://haulbase.co.uk)
-*   **Follow Us:** Stay tuned here on GitHub for updates, integrations, and documentation.
